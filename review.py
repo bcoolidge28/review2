@@ -20,4 +20,4 @@
 
 for i in range(2,9,2):
     print i
-    print "Who do we appreciate"
+print "Who do we appreciate"
